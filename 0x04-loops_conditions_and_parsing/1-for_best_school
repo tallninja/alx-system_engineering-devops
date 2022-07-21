@@ -3,5 +3,5 @@
 # script that prints "Best School" 10 times
 for _ in {0..9}
 do
-	echo "Best School"
+echo "Best School"
 done
